@@ -1,0 +1,30 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+h2, h3{
+    color: red;
+}
+
+.kitten-header{
+    background-color: orange;
+}
+
+#main-heading{
+    border-bottom: 5px solid black;
+}
+
+.kitten-header .secondary-heading{
+    color: green;
+}
